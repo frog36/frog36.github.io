@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO Game",
+"dataUrl": "UFO GL.data.unityweb",
+"wasmCodeUrl": "UFO GL.wasm.code.unityweb",
+"wasmFrameworkUrl": "UFO GL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
